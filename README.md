@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @whatever-shaha
+- 👀 I’m interested in web-dev
+- 🌱 I’m currently learning React
+- 📫 How to reach me?...
